@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/0*wtJqpNi7-0-z9bQe.jpg)](https://vamsikrishna.netlify.app/)
 <h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
 <h3 align="center">𝕬 𝖕𝖆𝖘𝖘𝖎𝖔𝖓𝖆𝖙𝖊 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img align="right" alt="Coding" width="400" src="https://q8q7r7w8.rocketcdn.me/wp-content/uploads/2023/02/giphy-2-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsikrishna71&label=Profile%20views&color=0e75b6&style=flat" alt="vamsikrishna71" /> </p>
 
