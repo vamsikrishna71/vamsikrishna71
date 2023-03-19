@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thugs_7" target="blank"><img src="https://img.shields.io/twitter/follow/thugs_7?logo=twitter&style=for-the-badge" alt="thugs_7" /></a> </p>
 
-- 🌱 I’m currently learning **nodeJs,Tailwind, Vite**
+- 🌱 I’m currently learning **nodeJs,Threejs, Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://vamsikrishna.netlify.app/](https://vamsikrishna.netlify.app/)
 
