@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **nodeJs,Threejs, Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://vamsi-3d.netlify.app/](https://vamsi3d.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vamsi-3d.netlify.app/)
 
 - 💬 Ask me about **Laravel Eloquent ORM**
 
