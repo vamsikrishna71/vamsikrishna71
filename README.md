@@ -2,7 +2,7 @@
 	<a href="https://github.com/vamsikrishna71/vamsikrishna71">
  		<img src="https://github.com/vamsikrishna71/vamsikrishna71/blob/main/snake.svg" alt="vamsikrishna71" />
 	</a>
-	<img align="right" alt="Coding" width="400" src="https://q8q7r7w8.rocketcdn.me/wp-content/uploads/2023/02/giphy-2-1.gif">
+	<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif">
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vamsi Krishna V
