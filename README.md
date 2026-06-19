@@ -187,36 +187,6 @@ An open-source Python 3 wrapper for managing metadata, collections and playlists
 ![Plex](https://img.shields.io/badge/-Plex-E5A00D?style=flat-square&logo=plex&logoColor=black)
 
 </td>
-<td width="50%" valign="top">
-
-#### 🤖 &nbsp;ML Course Recommender
-Streamlit app that recommends courses based on user input, with live model training and testing.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://vamsi-ml-course-model.streamlit.app/)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📊 &nbsp;Dynamic Sliders Model
-Interactive Streamlit tool using dynamic sliders to reshape DataFrames and control graph strengths.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://vamsi-sliders-df.streamlit.app/)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌐 &nbsp;Jellyfin WebOS
-WebOS client for Jellyfin media server — extending open-source media ecosystem support.
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vamsikrishna71/jellyfin-webos)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
 </tr>
 </table>
 
@@ -257,7 +227,7 @@ WebOS client for Jellyfin media server — extending open-source media ecosystem
 
 | Badge | Credential | Year |
 |---|---|---|
-| 🗄️ | SQL Certification | 2024 |
+| 🗄️ | LINUX FOUNDATION | 2024 |
 | 🔐 | Cyber Security Fundamentals | 2024 |
 | ⚛️ | Quantum Computing | 2023 |
 | 🏆 | **National Finalist** — Smart India Hackathon | 2018 |
@@ -275,8 +245,8 @@ WebOS client for Jellyfin media server — extending open-source media ecosystem
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=vamsikrishna71&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
+<a href="(https://github.com/lucthienphong1120/github-trophies)">
+  <img src="[![trophy](https://github-trophies.vercel.app/?username=vamsikrishna71&theme=onedark)](https://github.com/vamsikrishna71/github-trophies)" alt="Trophies"/>
 </a>
 
 </div>
