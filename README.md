@@ -45,7 +45,6 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="55%" valign="top">
 
 ### 👾 &nbsp;About Me
 
@@ -60,18 +59,10 @@ email      : vamsicse0@gmail.com
 <br/>
 
 - 🏗️ &nbsp;**Journey:** Infiniti `2019` ✈️ SS4U Corp `2021` 🚀 Salt Player `2024–now`
-- 🌐 &nbsp;**Frontend Lab:** [vamsikrishna.netlify.app](http://vamsikrishna.netlify.app)
+- 🌐 &nbsp;**Frontend Lab:** [Portfolio](http://vamsikrishna71.github.io)
 - 📖 &nbsp;**Technical Writer** on [Dev.to](https://dev.to/vamsikrishna71) — software architecture & dev
-- 🏆 &nbsp;**National Finalist** — Smart India Hackathon 2018
 - ☁️ &nbsp;**Participant** — FOSS ASIA Cloud Skills Challenge 2022
 - 💬 &nbsp;Always open to collaborate — reach me at [vamsicse0@gmail.com](mailto:vamsicse0@gmail.com)
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300" alt="Coding GIF" style="border-radius:12px"/>
-
-</td>
 </tr>
 </table>
 
@@ -227,10 +218,9 @@ An open-source Python 3 wrapper for managing metadata, collections and playlists
 
 | Badge | Credential | Year |
 |---|---|---|
-| 🗄️ | LINUX FOUNDATION | 2024 |
+| 🗄️ | Linux Foundation | 2024 |
 | 🔐 | Cyber Security Fundamentals | 2024 |
 | ⚛️ | Quantum Computing | 2023 |
-| 🏆 | **National Finalist** — Smart India Hackathon | 2018 |
 | ☁️ | Participant — FOSS ASIA Cloud Skills Challenge | 2022 |
 
 <br/>
@@ -241,9 +231,7 @@ An open-source Python 3 wrapper for managing metadata, collections and playlists
 <!--                      GITHUB TROPHIES                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
+<!-- <div align="center">
 
 <a href="(https://github.com/lucthienphong1120/github-trophies)">
   <img src="[![trophy](https://github-trophies.vercel.app/?username=vamsikrishna71&theme=onedark)](https://github.com/vamsikrishna71/github-trophies)" alt="Trophies"/>
@@ -251,7 +239,7 @@ An open-source Python 3 wrapper for managing metadata, collections and playlists
 
 </div>
 
-<br/>
+<br/> -->
 
 ---
 
