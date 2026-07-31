@@ -29,7 +29,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vamsikrishna71&color=00ffd2&style=flat-square&label=Profile+Views)](https://github.com/vamsikrishna71)&nbsp;
-[![Years Badge](https://img.shields.io/badge/Experience-2%2B_Years-0099ff?style=flat-square&logo=lightning&logoColor=white)](https://github.com/vamsikrishna71)&nbsp;
+[![Years Badge](https://img.shields.io/badge/Experience-7%2B_Years-0099ff?style=flat-square&logo=lightning&logoColor=white)](https://github.com/vamsikrishna71)&nbsp;
 [![Dev.to](https://img.shields.io/badge/Dev.to-Technical_Writer-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/vamsikrishna71)&nbsp;
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Roles-00ffd2?style=flat-square&logo=statuspage&logoColor=black)](mailto:vamsicse0@gmail.com)
 
@@ -58,7 +58,7 @@ email      : vamsicse0@gmail.com
 
 <br/>
 
-- 🏗️ &nbsp;**Journey:** Infiniti `2019` ✈️ SS4U Corp `2021` 🚀 Salt Player `2024–now`
+- 🏗️ &nbsp;**Journey:** Infiniti `2019` ✈️ SS4U Corp `2021` 🚀 Salt Player `2024` 🎵 Resonāda `2026–now`
 - 🌐 &nbsp;**Frontend Lab:** [Portfolio](http://vamsikrishna71.github.io)
 - 📖 &nbsp;**Technical Writer** on [Dev.to](https://dev.to/vamsikrishna71) — software architecture & dev
 - ☁️ &nbsp;**Participant** — FOSS ASIA Cloud Skills Challenge 2022
@@ -143,6 +143,10 @@ email      : vamsicse0@gmail.com
 ### 💼 &nbsp;Work Experience
 
 ```
+◆ Resonāda                            2026 – Present
+  Product Analyst / Tester
+  └─ Audio engine QA · USB-DAC & DSD playback testing · bitXact indicator validation · feature feedback
+
 ◆ Salt Player                         Jun 2024 – Present
   Play Store Project Lead / Developer
   └─ International market expansion · translation management · release workflow optimization
@@ -161,6 +165,29 @@ email      : vamsicse0@gmail.com
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  TECHNICAL JOURNEY                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### 🗺️ &nbsp;Technical Journey (2016 – 2026)
+
+```
+2016–2017  ◆ Developed mobile applications for static events using Android Studio
+2018–2019  ◆ Built a snake game in C# using the Xamarin platform
+2019       ◆ Developed C# Windows Forms apps & REST APIs for e-commerce platforms using PHP
+2020       ◆ Built an authenticity pipeline using Laravel for CRM projects
+2021       ◆ Collaborated on Android translations for Salt Player during early development
+2022       ◆ Worked on data analytics projects using Scikit-learn and NumPy
+2023       ◆ Redesigned Metro themes for CRM applications
+2024       ◆ Studied data warehouse disciplines and cybersecurity basics
+2025       ◆ Began collaborating with independent developers
+2026       ◆ Collaborating with Resonāda as a Product Analyst and Tester
+```
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  PROJECTS & ARTICLES                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -170,12 +197,29 @@ email      : vamsicse0@gmail.com
 <tr>
 <td width="50%" valign="top">
 
-#### 📦 &nbsp;Plex Meta Manager
-An open-source Python 3 wrapper for managing metadata, collections and playlists inside Plex Media Server.
+#### 🎵 &nbsp;Resonāda
+`Open Source · Audio`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vamsikrishna71/plex-metamanager)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plex](https://img.shields.io/badge/-Plex-E5A00D?style=flat-square&logo=plex&logoColor=black)
+A bit-perfect, high-fidelity music player for Android built for audiophiles. Features native USB-DAC support, parametric DSP, DSD playback, and real-time audio analysis with a bitXact indicator for verified bit-perfect streaming.
+
+[![Source](https://img.shields.io/badge/View_Source-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/resonada/resonada)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Audio Engine](https://img.shields.io/badge/-Audio_Engine-000000?style=flat-square&logo=audiomack&logoColor=white)
+![Hi-Res Audio](https://img.shields.io/badge/-Hi--Res_Audio-1a1a1a?style=flat-square&logoColor=white)
+![DSD](https://img.shields.io/badge/-DSD-ff0032?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧂 &nbsp;Salt Player
+`Self-Collaboration`
+
+A lightweight yet feature-rich music player for Android with a focus on simplicity and performance. Contributed to the development as part of a solo collaboration initiative to enhance the player's core functionality and user experience.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Moriafly/SaltPlayerSource)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![UI/UX](https://img.shields.io/badge/-UI%2FUX-0066ff?style=flat-square&logoColor=white)
 
 </td>
 </tr>
